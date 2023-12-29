@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Rock, Paper, Scissors](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Colorful Console Output](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Secret Diary](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Secure Diary Manager](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Cybersecurity</b>
