@@ -3,11 +3,11 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [Rock, Paper, Scissors](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Colorful Console Output](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Secure Diary Manager](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Rock, Paper, Scissors](https://github.com/Deeoojo/RPS)
+  - [Colorful Console Output](https://github.com/Deeoojo/Colorful-Console-Output)
+  - [Secure Diary Manager](https://github.com/Deeoojo/Secure-Diary-Manager)
 - <b>SQL</b>
-  - [Applying Filters to SQL Queries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Applying Filters to SQL Queries](https://github.com/Deeoojo/sql)
 - <b>Cybersecurity</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Sentinel-Lab)
  
