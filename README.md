@@ -9,7 +9,7 @@
 - <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/Deeoojo/sql)
 - <b>Cybersecurity</b>
-  - [Network Packet Analyzer: DNS and ICMP](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Network Packet Analyzer: DNS and ICMP](https://github.com/Deeoojo/Network-Packet-Analyzer)
  
  
 <h2>Certifications:</h2>
