@@ -10,7 +10,7 @@
   - [Applying Filters to SQL Queries](https://github.com/Deeoojo/sql)
 - <b>Cybersecurity</b>
   - [Network Packet Analyzer: DNS and ICMP](https://github.com/Deeoojo/Network-Packet-Analyzer)
-  - [Wireshark/TcpDump Analysis](https://github.com/Deeoojo/Network-Packet-Analyzer)
+  - [Wireshark/TcpDump Analysis](https://github.com/Deeoojo/Wireshark-TCP-HTTP-Log-analysis)
  
  
 <h2>Certifications:</h2>
