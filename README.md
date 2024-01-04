@@ -16,6 +16,10 @@
 <h2>Certifications:</h2>
 <a href="https://www.credly.com/badges/917c8549-890a-43ba-a687-a6ce2e800474/linked_in_profile">Google cybersecurity professional</a>
 
+Qualys Vulnerability Management
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Deeoojo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
