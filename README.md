@@ -11,6 +11,7 @@
 - <b>Cybersecurity</b>
   - [Network Packet Analyzer: DNS and ICMP](https://github.com/Deeoojo/Network-Packet-Analyzer)
   - [Wireshark/TcpDump Analysis](https://github.com/Deeoojo/Wireshark-TCP-HTTP-Log-analysis)
+  - [Threat Intelligence and Yara Rule Creation](https://github.com/Deeoojo/Threat-Intelligence-and-Yara-Rule-Creation/wiki)
  
  
 <h2>Certifications:</h2>
