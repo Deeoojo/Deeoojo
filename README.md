@@ -1,47 +1,48 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/CyberDan">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-omotayo-ojo-66b8102a6">Cybersecurity Professional</a>
+# 👋 Hi, I'm Daniel
 
-<h2>👨‍💻 Projects:</h2>
+I'm a cybersecurity analyst passionate about detection engineering, malware analysis, and security automation. I specialize in creating threat detection rules, analyzing real-world phishing and malware samples, and automating vulnerability remediation using industry-standard tools.
 
-- <b>Python</b>
-  - [Rock, Paper, Scissors](https://github.com/Deeoojo/RPS)
-  - [Colorful Console Output](https://github.com/Deeoojo/Colorful-Console-Output)
-  - [Secure Diary Manager](https://github.com/Deeoojo/Secure-Diary-Manager)
-- <b>SQL</b>
-  - [Applying Filters to SQL Queries](https://github.com/Deeoojo/sql)
-- <b>Cybersecurity</b>
-  - [Network Packet Analyzer: DNS and ICMP](https://github.com/Deeoojo/Network-Packet-Analyzer)
-  - [Wireshark/TcpDump Analysis](https://github.com/Deeoojo/Wireshark-TCP-HTTP-Log-analysis)
-  - [Threat Intelligence and Yara Rule Creation](https://github.com/Deeoojo/Threat-Intelligence-and-Yara-Rule-Creation/wiki)
- 
- 
-<h2>Certifications:</h2>
-<a href="https://www.credly.com/badges/917c8549-890a-43ba-a687-a6ce2e800474/linked_in_profile">Google cybersecurity professional</a>
+---
 
-Qualys Vulnerability Management
+## 🔍 Skills & Tools
 
+- 🛡️ Threat Intelligence | YARA Rule Creation | MITRE ATT&CK Mapping  
+- 🔧 Nessus | Ansible | Patch Automation  
+- 📩 Phishing Email Analysis | IOC Extraction  
+- 🧬 Malware Analysis | Static & Dynamic Techniques  
+- 📊 SIEM (Splunk) Integration | Log Analysis  
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🚀 Featured Projects
 
-[<img align="left" alt="Deeoojo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Deeoojo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Deeoojo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🛡️ [Threat Intelligence & YARA Rules](https://github.com/deeoojo/yara-threat-detection)
+- Custom YARA rules crafted using malware samples and threat intel feeds
+- Rules tested in sandboxes and tuned for accuracy
 
-[twitter]: https://twitter.com/dfordust
-[instagram]: https://www.instagram.com/dee_oojo1
-[linkedin]: https://www.linkedin.com/in/daniel-omotayo-ojo-66b8102a6
+### 🛠️ [Vulnerability Management (Nessus + Ansible)](https://github.com/deeoojo/vuln-management)
+- Automated vuln scans and patch deployments using Nessus and Ansible
+- Scripts ensure security compliance and reporting
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📨 [Phishing Email Analysis & IOC Extraction](https://github.com/deeoojo/phishing-analysis)
+- Parsed phishing emails, extracted malicious URLs, hashes, and headers
+- Mapped findings to MITRE ATT&CK tactics
 
-Here are some ideas to get you started:
+### 🧬 [Malware Analysis Lab](https://github.com/deeoojo/malware-lab)
+- Conducted static and dynamic malware analysis in isolated environments
+- Documented behaviors, persistence methods, and remediation recommendations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 [SIEM Integration with Splunk](https://github.com/deeoojo/splunk-integration)
+- Centralized log analysis setup with multiple data sources
+- Correlation searches and dashboards for suspicious behavior detection
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/daniel-omotayo-ojo-66b8102a6/)
+- ✉️ [Email me](mailto:danielomotayoojo@gmail.com)
+
+---
+
+📌 *Open to roles in SOC operations, threat detection, or security automation.*
