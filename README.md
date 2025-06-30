@@ -24,7 +24,7 @@ I'm a cybersecurity analyst passionate about detection engineering, malware anal
 - Automated vuln scans and patch deployments using Nessus and Ansible
 - Scripts ensure security compliance and reporting
 
-### 📨 [Phishing Email Analysis & IOC Extraction](https://github.com/deeoojo/phishing-analysis)
+### 📨 [Phishing Email Analysis & IOC Extraction](https://github.com/Deeoojo/Phishing-Email-Analysis-IOC-Extraction/blob/main/README.md)
 - Parsed phishing emails, extracted malicious URLs, hashes, and headers
 - Mapped findings to MITRE ATT&CK tactics
 
