@@ -20,7 +20,7 @@ I'm a cybersecurity analyst passionate about detection engineering, malware anal
 - Custom YARA rules crafted using malware samples and threat intel feeds
 - Rules tested in sandboxes and tuned for accuracy
 
-### 🛠️ [Vulnerability Management (Nessus + Ansible)](https://github.com/deeoojo/vuln-management)
+### 🛠️ [Vulnerability Management (Nessus + Ansible)](https://github.com/Deeoojo/Vulnerability-Management-Nessus-Ansible-/blob/main/README.md)
 - Automated vuln scans and patch deployments using Nessus and Ansible
 - Scripts ensure security compliance and reporting
 
