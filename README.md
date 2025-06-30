@@ -16,7 +16,7 @@ I'm a cybersecurity analyst passionate about detection engineering, malware anal
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Threat Intelligence & YARA Rules](https://github.com/deeoojo/yara-threat-detection)
+### 🛡️ [Threat Intelligence & YARA Rules](https://github.com/Deeoojo/Threat-Intelligence-and-Yara-Rule-Creation/blob/main/README.md)
 - Custom YARA rules crafted using malware samples and threat intel feeds
 - Rules tested in sandboxes and tuned for accuracy
 
