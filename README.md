@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel
 
-I'm a cybersecurity analyst passionate about detection engineering, malware analysis, and security automation. I specialize in creating threat detection rules, analyzing real-world phishing and malware samples, and automating vulnerability remediation using industry-standard tools.
+I'm a cybersecurity analyst passionate about Security operations, Threat hunting, Cyber threat intelligence, Malware analysis, and Security automation. I specialize in log analysis, analyzing real-world phishing and malware samples, and automating vulnerability remediation using industry-standard tools.
 
 ---
 
